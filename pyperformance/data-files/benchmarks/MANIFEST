@@ -29,8 +29,6 @@ bpe_tokeniser	<local>
 concurrent_imap	<local>
 coroutines	<local>
 coverage	<local>
-gc_traversal	<local>
-gc_collect	<local>
 generators	<local>
 chameleon	<local>
 chaos	<local>
